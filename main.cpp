@@ -3,6 +3,10 @@
 using namespace std;
 int main()
 {
-cout <<"\nhello GIT\n"<<std::flush;
+<<<<<<< HEAD
+	std::cout<<"\nhello GIT. My new HOME\n";
+=======
+	cout<<"hello GIT\n"<<std::flush;
+>>>>>>> hello-world-suingNamespaceStd
 return 0;
 }
