@@ -1,7 +1,8 @@
 #include <iostream>
 
+using namespace std;
 int main()
 {
-std::cout<<"\nhello GIT.My new Home\n";
+cout <<"\nhello GIT\n"<<std::flush;
 return 0;
 }
